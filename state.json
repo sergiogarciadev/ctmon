@@ -1,0 +1,137 @@
+{
+  "argon2023": {
+    "name": "argon2023",
+    "url": "https://ct.googleapis.com/logs/argon2023",
+    "page_size": 32,
+    "concurrency": 8,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "argon2024": {
+    "name": "argon2024",
+    "url": "https://ct.googleapis.com/logs/us1/argon2024",
+    "page_size": 32,
+    "concurrency": 8,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "dodo": {
+    "name": "dodo",
+    "url": "https://dodo.ct.comodo.com",
+    "page_size": 256,
+    "concurrency": 4,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "nessie2023": {
+    "name": "nessie2023",
+    "url": "https://nessie2023.ct.digicert.com/log",
+    "page_size": 256,
+    "concurrency": 1,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "nimbus2023": {
+    "name": "nimbus2023",
+    "url": "https://ct.cloudflare.com/logs/nimbus2023",
+    "page_size": 1000,
+    "concurrency": 4,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "nimbus2024": {
+    "name": "nimbus2024",
+    "url": "https://ct.cloudflare.com/logs/nimbus2024",
+    "page_size": 1000,
+    "concurrency": 4,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "oak2023": {
+    "name": "oak2023",
+    "url": "https://oak.ct.letsencrypt.org/2023",
+    "page_size": 256,
+    "concurrency": 8,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "oak2024h1": {
+    "name": "oak2024h1",
+    "url": "https://oak.ct.letsencrypt.org/2024h1",
+    "page_size": 256,
+    "concurrency": 8,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "oak2024h2": {
+    "name": "oak2024h2",
+    "url": "https://oak.ct.letsencrypt.org/2024h2",
+    "page_size": 256,
+    "concurrency": 8,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "sabre": {
+    "name": "sabre",
+    "url": "https://sabre.ct.comodo.com",
+    "page_size": 256,
+    "concurrency": 4,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "trustasia2023": {
+    "name": "trustasia2023",
+    "url": "https://ct.trustasia.com/log2023",
+    "page_size": 256,
+    "concurrency": 2,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "trustasia2024": {
+    "name": "trustasia2024",
+    "url": "https://ct2024.trustasia.com/log2024",
+    "page_size": 256,
+    "concurrency": 2,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "xenon2023": {
+    "name": "xenon2023",
+    "url": "https://ct.googleapis.com/logs/xenon2023",
+    "page_size": 32,
+    "concurrency": 8,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "xenon2024": {
+    "name": "xenon2024",
+    "url": "https://ct.googleapis.com/logs/eu1/xenon2024",
+    "page_size": 32,
+    "concurrency": 8,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  },
+  "yeti2023": {
+    "name": "yeti2023",
+    "url": "https://yeti2023.ct.digicert.com/log",
+    "page_size": 256,
+    "concurrency": 1,
+    "tree_size": 0,
+    "timestamp": 0,
+    "last_entry": 0
+  }
+}
