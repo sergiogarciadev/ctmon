@@ -14,6 +14,6 @@ require (
 	github.com/alecthomas/kong v0.8.0
 	github.com/goccy/go-json v0.10.2
 	github.com/google/certificate-transparency-go v1.1.6
-	github.com/jackc/pgx/v5 v5.4.3
+	github.com/jackc/pgx/v5 v5.5.4
 	go.uber.org/zap v1.25.0
 )
